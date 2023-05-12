@@ -1,0 +1,25 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: LED1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: LED1
+    Id: g=33c2163b5e55146a5f6c4f2314ad8140
+    Supertype: Led
+    ReferenceType: HasComponent
+    Children:
+    - Name: Active
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
