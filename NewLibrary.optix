@@ -7,7 +7,7 @@ Project:
  Copyright: ''
  FormatVersion: 1
  ProductVersion: 1.1
- CoreVersion: 2.0
+ CoreVersion: 3.0
  Dependencies:
   2:
    Uri: 'urn:FTOptix:CoreBase'
