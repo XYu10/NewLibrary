@@ -81,13 +81,13 @@ Children:
   - Name: LibraryItemGuid
     Type: BaseDataVariableType
     DataType: Guid
-    Value: "352804a47b7f8b64da77b3ed0f444279"
+    Value: "eb4bd3b53d6df3ec48099d1054ac644f"
   - Name: LibraryItemVersion
     Type: BaseDataVariableType
     DataType: UInt32
     Value: 1
   - Name: New_Label
-    Id: g=627fc329bd2266624c274c2e30a23cf2
+    Id: g=bdbee662c756da106463125c200830ee
     Supertype: Label
     ReferenceType: HasComponent
     Children:
@@ -95,4 +95,4 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"New_Label"}
+      Value: {"LocaleId":"en-US","Text":"Label1"}
