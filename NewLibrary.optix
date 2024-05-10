@@ -22,10 +22,10 @@ Project:
    Module: FTOptix.UI
    Version: 12.4
  Statistics:
-  TotalNodeCount: 39
-  Objects: 13
-  ObjectTypes: 4
-  Variables: 22
+  TotalNodeCount: 34
+  Objects: 12
+  ObjectTypes: 3
+  Variables: 19
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
