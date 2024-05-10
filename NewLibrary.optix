@@ -1,0 +1,36 @@
+Project:
+ Name: NewLibrary
+ GUID: e9265bb18232ef1518d85129062eb61b
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.4
+ CoreVersion: 3.0
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 4.0
+  3:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 6.1
+  5:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 12.4
+ Statistics:
+  TotalNodeCount: 22
+  Objects: 10
+  ObjectTypes: 2
+  Variables: 10
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 0
+  ReferenceTypes: 0
+  Files: 4
+ Nodes:
+ - File: Nodes/NewLibrary.yaml
